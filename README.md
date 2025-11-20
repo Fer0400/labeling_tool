@@ -5,6 +5,8 @@ The **Danger Categories Labeling Tool** provides a curated list of **30 predefin
 
 This tool is designed to **simplify and accelerate data labeling**, ensuring consistent, high-quality annotations for **training machine learning models**.
 
+Link to the tool: [Danger Labeling Streamlit](https://dangerlabeling.streamlit.app/)
+
 ---
 
 ## 🚀 Features
