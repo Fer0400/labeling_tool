@@ -1,2 +1,2 @@
-# labeling_tool
-Labeling tool used for plant incidents. 
+# Danger Categories label tool
+The following tool contains a list of 30 dangers. An excel file xlsx/csv needs to be uploaded. This allows the user to read with ease information like Description and metadata to label in a quicker and simpler way. This is used for training a model.
